@@ -1,0 +1,3 @@
+Model,Accuracy,Precision_weighted,Recall_weighted,F1_weighted
+Majority-Class Baseline,0.6666666666666666,0.0,0.6666666666666666,0.5333333333333333
+Logistic Regression,1.0,1.0,1.0,1.0
